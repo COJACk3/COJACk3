@@ -5,7 +5,7 @@
 - 📫 How to reach me;
 -   Discord: COJACk3#0420
 -   Instagram: C3dmonson
--   Linkedin: lindedin.com/in/cody-edmonson-cojack3
+-   Linkedin: linkedin.com/in/cody-edmonson-cojack3
 
 <!---
 COJACk3/COJACk3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
